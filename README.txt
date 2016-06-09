@@ -3,3 +3,4 @@ Hello, again
 Update README with new information
 Sharing remotely is fun and easy
 FEATURE1
+Feature2 changed
